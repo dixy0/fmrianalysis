@@ -1,5 +1,5 @@
 function vec = triu2vec(matrix)
-% Cnnvert the upper triangular part of a square matrix intoa vector
+% Cnnvert the upper triangular part of a square matrix into a vector
 % Author: Xin Di PhD.
 % June 12, 2020
 
